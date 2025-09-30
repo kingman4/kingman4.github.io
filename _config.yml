@@ -23,6 +23,7 @@ twitter_username: username
 github_username: kingman4
 minimal_mistakes_skin: default
 search: true
+repository: kingman4/kingman4.github.io
 
 # Build settings
 markdown: kramdown
