@@ -2,8 +2,7 @@
 // You can import this data from anywhere in your site by using the `import` keyword.
 
 export const SITE_TITLE = 'Kingman4'
-export const SITE_DESCRIPTION =
-	'A simple blog'
+export const SITE_DESCRIPTION = 'A simple blog'
 
 // If you deploy to a subdirectory, set the `WEBSITE_BASE` here.
 // e.g. '/blog' if you are deploying to example.com/blog
@@ -19,7 +18,6 @@ export const SocialLinks = [
 		name: 'LinkedIn',
 		url: 'https://www.linkedin.com/in/ethan-king/',
 	},
-
 ]
 
 export const WebsiteLinks = [
